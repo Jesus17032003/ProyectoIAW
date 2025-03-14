@@ -3,7 +3,7 @@
 ### 1 Descripción
 ### 2 Estructura del proyecto
 ### 3 Modelo utilizado
-### 4 Explicacion del proyecto
+### 4 Conclusión
 
 
 ### 1 Descripción
@@ -53,7 +53,15 @@ Selecciona la Vista adecuada para presentar la respuesta
 
 **Facilita las pruebas:** Cada componente puede probarse de forma aislada
 
-### 4 Explicación del proyecto
+### 4 Conclusión
+
+La implementación del modelo MVC en nuestra aplicación web ha sido altamente beneficiosa. Esta arquitectura nos permitió:
+
+-Separar responsabilidades entre datos, interfaz y lógica de control
+
+-Facilitar el mantenimiento y las actualizaciones del sistema
+
+-Adaptarnos ágilmente a los cambios en el mercado informático
 
 
 
